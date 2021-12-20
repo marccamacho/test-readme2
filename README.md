@@ -25,14 +25,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Títol del projecte</h3>
 
   <p align="center">
-    project_description
+    Descripció del projecte
     <br />
     <a href="https://github.com/github_username/repo_name">Veure demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
@@ -45,7 +43,7 @@
     <li>
       <a href="#about-the-project">Sobre el projecte</a>
       <ul>
-        <li><a href="#built-with">Fet amb</a></li>
+        <li><a href="#basat-en">Basat en</a></li>
       </ul>
     </li>
     <li>
@@ -76,7 +74,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### Basat en
 
 * [Processing 3.5.4](https://processing.org/)
 
